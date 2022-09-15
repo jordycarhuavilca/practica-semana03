@@ -1,0 +1,60 @@
+body{
+	background-color: gray;
+}
+#principal{
+	width: 80%;
+	height: auto;
+	float: left;
+	margin:0 10% 0 10%;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	background-color: white;
+}
+header,nav,section,footer{
+	width: 100%;
+	height: auto;
+	margin-bottom: 5px;
+}
+
+#h1cab{
+	text-align: center;
+	color:gray;
+}
+#imgcab{
+	width: 100%;
+	height: 250px;
+	float: left;
+}
+
+#pf, #ph{
+	width: 49%;
+	height: 20px;
+	float: left;
+	padding-left: 1%;
+	background-color: gray;
+	border-radius: 10px;
+	color:white;
+}
+.blok{
+	width: 47%;
+	height: auto;
+	border:1px solid;
+	float: left;
+	margin:1%;
+	background-color: gray;
+	color: white;
+}
+
+#imgpie{
+	width: 100%;
+	height: 70px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.imgblok
+{
+	width: 100%;
+	height: 250px;
+	float: left;
+}
